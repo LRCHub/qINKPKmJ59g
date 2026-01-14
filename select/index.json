@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ボルテッカー",
+  "base_artist": "DECO*27",
+  "createdAt": "2026-01-14T08:42:31.528788Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ボルテッカー",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/01_ボルテッカー_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ボルテッカー",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/02_ボルテッカー_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ボルテッカー (Volt Tackle)",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/03_ボルテッカー_(Volt_Tackle)_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ボルテッカー",
+      "artist": "DECO∗27",
+      "has_synced": true,
+      "path": "select/04_ボルテッカー_DECO∗27.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ボルテッカー",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/05_ボルテッカー_Various.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ボルテッカー",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_ボルテッカー_DECO_27.txt"
+    }
+  ]
+}
